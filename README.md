@@ -15,20 +15,6 @@ O objetivo é praticar:
 
 ## 📁 Organização do Repositório
 
-Basecamp-HTML-CSS/
-│
-├── assets/            # Imagens, ícones, vídeos, fontes
-│   ├── images/
-│   └── fonts/
-│
-├── styles/            # Arquivos CSS
-│   ├── main.css
-│   └── reset.css
-│
-├── index.html
-└── about.html
-
-
 
 - `assets/`: recursos visuais usados nas páginas  
 - `styles/`: arquivos CSS que estilizam as páginas  
