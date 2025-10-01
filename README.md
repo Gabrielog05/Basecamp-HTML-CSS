@@ -17,14 +17,17 @@ O objetivo é praticar:
 
 Basecamp-HTML-CSS/
 │
-├── assets/
-│   
-└── (imagens, fontes, ícones etc.)
+├── assets/            # Imagens, ícones, vídeos, fontes
+│   ├── images/
+│   └── fonts/
 │
-├── styles/
-│    └── (arquivos CSS, possivelmente reset, variáveis, etc.)
+├── styles/            # Arquivos CSS
+│   ├── main.css
+│   └── reset.css
+│
 ├── index.html
 └── about.html
+
 
 
 - `assets/`: recursos visuais usados nas páginas  
