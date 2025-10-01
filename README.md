@@ -18,11 +18,11 @@ O objetivo é praticar:
 Basecamp-HTML-CSS/
 │
 ├── assets/
-│ └── (imagens, fontes, ícones etc.)
+│   
+└── (imagens, fontes, ícones etc.)
 │
 ├── styles/
-│ └── (arquivos CSS, possivelmente reset, variáveis, etc.)
-│
+│    └── (arquivos CSS, possivelmente reset, variáveis, etc.)
 ├── index.html
 └── about.html
 
